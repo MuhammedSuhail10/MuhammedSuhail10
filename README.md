@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Business Sale app backend development, Powerplay CRM backend development<br>I am currently learning react native, then gonna learn flutter maybe<br>Ask me about anything I know from Django, Python, HTML, CSS, JavaScript, React, React Native<br>Fun fact is that I don't know
+I am currently working on Business Sale app backend development, Powerplay CRM backend development<br>I am currently learning react native, then gonna learn flutter maybe<br>Programming Django, Python, HTML, CSS, JavaScript, React, React Native
 
 
 # 💻 Tech Stack:
