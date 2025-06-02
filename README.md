@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Suhail</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Investrix**
-
 - 🌱 I’m currently learning **FastApi, NodeJS**
 
 - 👯 I’m looking to collaborate on **Powerplay**
