@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m passionate about technology, coding, and sol
 
 ## 🌐 Connect with Me
 
-- [Personal Website]([https://yourwebsite.com](https://muhammedsuhail.netlify.app/))
+- [Personal Website](https://muhammedsuhail.netlify.app/)
 
 ---
 
